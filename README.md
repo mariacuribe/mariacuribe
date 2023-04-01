@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello everyone 👋
+
+My Name is Maria Clara and I'm a Salesforce Developer from Colombia 🇨🇴.
+
+I enjoy learning new things and I want to improve my skills.
 
 <!--
 **mariacuribe/mariacuribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
