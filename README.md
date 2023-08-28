@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-My Name is Maria Clara and I'm a Salesforce Developer from Colombia 🇨🇴.
+My Name is Maria Clara and I'm a Salesforce Developer from Colombia.
 
 I enjoy learning new things and I want to improve my skills 🤓.
 
